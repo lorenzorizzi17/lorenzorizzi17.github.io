@@ -1,0 +1,7 @@
+main:
+  - title: Home
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: CV
+    url: /assets/pdf/example_cv.pdf # path to your CV PDF file
