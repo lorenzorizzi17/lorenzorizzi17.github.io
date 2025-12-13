@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: #
 
 news: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -28,8 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, welcome to my personal page! My name is Lorenzo and I'm currently a graduate student enrolled in the [Physics of Data](https://physicsofdata.dfa.unipd.it/overview/) Master's program at the University of Padova.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I earned my B.Sc. in Physics at the University of Bologna, where I first discovered a deep passion for Statistical physics and Complex Systems. Driven by this interest, I moved to the University of Padova to join the Physics of Data program, where I complemented my physics studies with advanced bayesian statistics, complex networks and computational methods. Today, my main academic interest lies in exploring the interface between Statistical Physics and Machine Learning through both theoretical modeling and numerical simulations.
+
+I'm also an alumnus of the [Collegio Superiore di Bologna](https://site.unibo.it/collegio-superiore/en) and currently a student at [Galilean School of Higher Studies](https://scuolagalileiana.unipd.it/en/), two prestigious Schools of Excellence in Italy offering merit-based scholarships and outstanding interdisciplinary training.
