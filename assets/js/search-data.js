@@ -407,6 +407,11 @@ ninja.data = [{
           description: "Sto testando la pagina",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-numerical-methods-for-soft-matter",
+          title: 'Numerical Methods for Soft Matter',
+          description: "Advanced Monte Carlo and Molecular Dynamics simulations (Ising, Active Matter, Langevin).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/NumericalMethodsSM/";
             },},{
         id: 'social-cv',
         title: 'CV',
