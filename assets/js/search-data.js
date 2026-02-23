@@ -402,12 +402,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-primo-test",
-          title: 'Primo Test',
-          description: "Sto testando la pagina",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-numerical-methods-for-soft-matter",
+          section: "News",},{id: "projects-numerical-methods-for-soft-matter",
           title: 'Numerical Methods for Soft Matter',
           description: "Advanced Monte Carlo and Molecular Dynamics simulations (Ising, Active Matter, Langevin).",
           section: "Projects",handler: () => {
