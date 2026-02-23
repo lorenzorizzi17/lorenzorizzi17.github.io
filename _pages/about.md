@@ -30,6 +30,6 @@ Hi, welcome to my personal page! My name is Lorenzo and I'm currently a graduate
 
 I earned my B.Sc. in Physics at the University of Bologna, where I first discovered a deep passion for **Statistical Mechanics** and **Complex Systems**. Driven by this interest, I moved to the University of Padova to join the Physics of Data program, where I complemented my physics studies with **advanced bayesian statistics, complex networks and computational methods**. 
 
-Today, my main academic interest lies in exploring the interface between **Statistical Physics** and **Machine Learning** through both theoretical modeling and numerical simulations.
+Today, my main academic interest lies in exploring the interface between **Statistical Physics** and **Machine Learning** through both theoretical modeling and numerical simulations. On these topics, I'm doing a research internship at **École Normale Supérieure - PSL** in Paris working with Professor Bruno Loureiro at CSD *(Centre Sciences des Données)*
 
 I'm also an alumnus of the [Collegio Superiore di Bologna](https://site.unibo.it/collegio-superiore/en) and currently a student at [Galilean School of Higher Studies](https://scuolagalileiana.unipd.it/en/), two prestigious Schools of Excellence in Italy offering merit-based scholarships and outstanding interdisciplinary training.
