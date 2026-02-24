@@ -384,16 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-started-my-master-s-thesis-research-in-paris-at-the-école-normale-supérieure-psl",
+          title: 'Started my Master’s thesis research in Paris at the École Normale Supérieure -...',
           description: "",
           section: "News",},{id: "projects-numerical-methods-for-soft-matter",
           title: 'Numerical Methods for Soft Matter',
